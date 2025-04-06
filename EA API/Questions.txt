@@ -1,0 +1,4 @@
+Questions:
+
+1. What does EA consider as RFMR units?
+2. Dataset 581144 "Monthly EA forecast for refinery unplanned outages in Europe in kb/d", to draw an expected outage curve should I add it to dataset 7022 "Monthly refinery total estimated impact in Europe in kb/d"? Does 7022 only account for planned in the months ahead?
